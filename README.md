@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (221)" src="https://github.com/user-attachments/assets/1acc67e2-23ef-4860-baf1-a39c34ec184c" /><img width="1920" height="1080" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/9168e6f0-8aac-4e21-9461-81b6c7619419" /># Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
+# Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
 ### Name: Preethi J
 ### Reg No: 212223220080
 ## AIM:
